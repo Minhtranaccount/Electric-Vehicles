@@ -1,0 +1,262 @@
+year,region,value
+2010,Japan,312.0
+2010,Netherlands,400.0
+2010,Norway,2800.0
+2010,USA,481.92034910000007
+2011,Chile,2.0
+2011,Japan,801.0
+2011,Netherlands,400.0
+2011,Norway,3123.0
+2011,Other Europe,56.0
+2011,Portugal,1078.0
+2011,USA,3903.093018
+2011,United Kingdom,1503.0
+2012,Canada,724.0
+2012,Chile,10.0
+2012,Denmark,452.0
+2012,France,809.0
+2012,Germany,1518.0
+2012,Italy,1351.0
+2012,Japan,1381.0
+2012,Netherlands,2803.0
+2012,Norway,3746.0
+2012,Other Europe,1529.0
+2012,Portugal,1127.0
+2012,Spain,400.0
+2012,Sweden,505.0
+2012,Switzerland,404.0
+2012,USA,11695.42188
+2012,United Kingdom,2840.0
+2013,Belgium,378.0
+2013,Canada,1179.0
+2013,Chile,13.0
+2013,Denmark,552.0
+2013,Finland,267.0
+2013,France,1802.0
+2013,Germany,2447.0
+2013,Italy,1356.0
+2013,Japan,1794.0
+2013,Netherlands,5791.0
+2013,Norway,4607.0
+2013,Other Europe,2079.0
+2013,Portugal,1175.0
+2013,Spain,891.0
+2013,Sweden,2000.0
+2013,Switzerland,627.0
+2013,USA,14990.34082
+2013,United Kingdom,5691.0
+2014,Belgium,614.0
+2014,Canada,2321.0
+2014,Chile,18.0
+2014,China,30000.0
+2014,Denmark,930.0
+2014,Finland,383.0
+2014,France,1814.0
+2014,Germany,2722.0
+2014,Iceland,6.0
+2014,Italy,1360.0
+2014,Japan,11511.0
+2014,Netherlands,11981.0
+2014,Norway,5293.0
+2014,Other Europe,2938.0
+2014,Poland,119.0
+2014,Portugal,1195.0
+2014,Spain,909.0
+2014,Sweden,2129.584716
+2014,Switzerland,1399.0
+2014,USA,20115.17188
+2014,United Kingdom,7706.0
+2015,Belgium,1412.0
+2015,Canada,3424.0
+2015,Chile,27.0
+2015,China,58758.0
+2015,Denmark,1314.0
+2015,Finland,836.0
+2015,France,10445.0
+2015,Germany,5058.0
+2015,Iceland,22.0
+2015,Italy,1749.0
+2015,Japan,22091.0
+2015,Netherlands,18008.0
+2015,Norway,5513.0
+2015,Other Europe,3997.0
+2015,Poland,298.0
+2015,Portugal,1260.0
+2015,Spain,1621.0
+2015,Sweden,2502.0
+2015,Switzerland,3606.0
+2015,USA,31674.0
+2015,United Kingdom,9240.0
+2016,Belgium,1595.0
+2016,Canada,4035.0
+2016,Chile,27.0
+2016,China,141253.99609
+2016,Denmark,2428.0
+2016,Finland,847.0
+2016,France,19618.0
+2016,Germany,23901.0
+2016,Iceland,51.0
+2016,India,25.0
+2016,Italy,2464.0
+2016,Japan,24321.0
+2016,Korea,2014.0
+2016,Mexico,56.0
+2016,Netherlands,32524.0
+2016,Norway,7541.0
+2016,Other Europe,5311.0
+2016,Poland,322.0
+2016,Portugal,1295.0
+2016,Spain,3544.0
+2016,Sweden,3474.0
+2016,Switzerland,3738.0
+2016,USA,38168.0
+2016,United Kingdom,13260.0
+2017,Australia,476.0
+2017,Belgium,1715.0
+2017,Canada,5841.0
+2017,Chile,41.0
+2017,China,213902.99996
+2017,Denmark,2484.0
+2017,Finland,847.0
+2017,France,21184.0
+2017,Germany,24014.0
+2017,Iceland,68.0
+2017,India,247.0
+2017,Italy,2817.0
+2017,Japan,28762.0
+2017,Korea,13676.0
+2017,Mexico,378.0
+2017,Netherlands,33282.0
+2017,New Zealand,104.0
+2017,Norway,9209.0
+2017,Other Europe,8110.0
+2017,Poland,523.0
+2017,Portugal,1605.0
+2017,South Africa,124.0
+2017,Spain,4908.0
+2017,Sweden,3364.0
+2017,Switzerland,3963.0
+2017,Thailand,96.0
+2017,USA,43037.0
+2017,United Kingdom,15241.0
+2018,Australia,727.0172271299999
+2018,Belgium,2958.0
+2018,Brazil,459.300395445
+2018,Canada,7940.0
+2018,Chile,69.0
+2018,China,275000.0078
+2018,Denmark,2557.0
+2018,Finland,931.0
+2018,France,24282.0
+2018,Germany,25724.0
+2018,Greece,22.0
+2018,Iceland,95.0
+2018,India,351.657135
+2018,Italy,3433.0
+2018,Japan,29971.0
+2018,Korea,27352.0
+2018,Mexico,876.0
+2018,Netherlands,36829.0
+2018,New Zealand,293.0
+2018,Norway,10559.0
+2018,Other Europe,9790.0
+2018,Poland,769.0
+2018,Portugal,1786.0
+2018,South Africa,239.0
+2018,Spain,5028.0
+2018,Sweden,4139.0
+2018,Switzerland,5074.0
+2018,Thailand,96.0
+2018,USA,54500.0
+2018,United Kingdom,17424.0
+2019,Australia,1930.0
+2019,Belgium,6429.0
+2019,Brazil,459.300395445
+2019,Canada,8951.140137
+2019,Chile,170.0
+2019,China,515908.0
+2019,Denmark,2693.0
+2019,Finland,2124.0
+2019,France,29701.0
+2019,Germany,39291.0
+2019,Greece,34.0
+2019,Iceland,262.0
+2019,India,351.657135
+2019,Italy,9176.0
+2019,Japan,30394.0
+2019,Korea,44792.0
+2019,Mexico,1022.0
+2019,Netherlands,50153.0
+2019,New Zealand,389.0
+2019,Norway,14307.0
+2019,Other Europe,11171.0
+2019,Poland,837.0
+2019,Portugal,1961.0
+2019,South Africa,245.0
+2019,Spain,5503.0
+2019,Sweden,5066.0
+2019,Switzerland,6200.0
+2019,Thailand,817.0
+2019,USA,77358.0
+2019,United Kingdom,27094.0
+2020,Australia,2300.0
+2020,Belgium,8482.0
+2020,Brazil,459.300395445
+2020,Canada,13194.0
+2020,Chile,352.0
+2020,China,807000.0
+2020,Denmark,3254.0
+2020,Finland,4278.0
+2020,France,34127.0
+2020,Germany,44669.0
+2020,Greece,190.0
+2020,Iceland,478.0
+2020,India,560.0
+2020,Indonesia,101.0
+2020,Italy,13381.0
+2020,Japan,29855.0
+2020,Korea,64188.0
+2020,Mexico,1270.0
+2020,Netherlands,65633.0
+2020,New Zealand,458.0
+2020,Norway,16976.0
+2020,Other Europe,18442.0
+2020,Poland,1458.0
+2020,Portugal,2801.0
+2020,South Africa,305.0
+2020,Spain,8173.0
+2020,Sweden,10412.0
+2020,Switzerland,7834.0
+2020,Thailand,1926.0
+2020,USA,98981.0
+2020,United Kingdom,33470.0
+2021,Australia,2302.0
+2021,Belgium,12816.0
+2021,Brazil,459.300395445
+2021,Canada,15369.0
+2021,Chile,480.0
+2021,China,1147000.0
+2021,Denmark,4172.0
+2021,Finland,6587.0
+2021,France,54260.0
+2021,Germany,50972.0
+2021,Greece,1212.0
+2021,Iceland,685.0
+2021,India,938.0
+2021,Indonesia,186.0
+2021,Italy,22471.0
+2021,Japan,29193.0
+2021,Korea,106701.0
+2021,Mexico,1342.0
+2021,Netherlands,85453.0
+2021,New Zealand,599.0
+2021,Norway,19278.0
+2021,Poland,3674.0
+2021,Portugal,4178.0
+2021,South Africa,305.0
+2021,Spain,8250.0
+2021,Sweden,14094.0
+2021,Switzerland,8208.0
+2021,Thailand,2285.0
+2021,USA,113527.0
+2021,United Kingdom,36894.0
