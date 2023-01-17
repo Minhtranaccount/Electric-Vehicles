@@ -1,0 +1,35 @@
+﻿,policies,no. of policies,evi member
+Australia,FALSE,0,FALSE
+Belgium,TRUE,1,TRUE
+Brazil,TRUE,2,FALSE
+Canada,TRUE,8,TRUE
+Chile,TRUE,5,TRUE
+China,TRUE,24,TRUE
+Denmark,TRUE,3,TRUE
+Europe,TRUE,11,nan
+Finland,TRUE,4,TRUE
+France,TRUE,5,TRUE
+Germany,TRUE,4,TRUE
+Greece,TRUE,1,TRUE
+Iceland,TRUE,1,TRUE
+India,TRUE,5,TRUE
+Indonesia,TRUE,4,FALSE
+Italy,TRUE,4,FALSE
+Japan,TRUE,7,TRUE
+Korea,TRUE,7,FALSE
+Mexico,TRUE,1,TRUE
+Netherlands,TRUE,6,TRUE
+New Zealand,TRUE,1,FALSE
+Norway,TRUE,3,TRUE
+Other Europe,nan,0,nan
+Poland,TRUE,3,TRUE
+Portugal,TRUE,1,TRUE
+Rest of the world,nan,0,nan
+South Africa,FALSE,0,FALSE
+Spain,TRUE,2,FALSE
+Sweden,TRUE,2,TRUE
+Switzerland,TRUE,1,FALSE
+Thailand,TRUE,4,FALSE
+United Kingdom,TRUE,7,TRUE
+USA,TRUE,22,TRUE
+World,nan,0,nan
