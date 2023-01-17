@@ -8,9 +8,11 @@
 - Hemanta Sahhi
 - Minh Tran
 
-### Presentation slides (including research questions, conclusive notes & limitations): see 'Presentation - Project 1 - Group 8.pdf'
+### Presentation slides (including research questions, conclusive notes & limitations)
+See 'Presentation - Project 1 - Group 8.pdf'
 
-### Input data files - see 'IEA-EV-data.csv' & 'config.py'
+### Input data files
+See 'IEA-EV-data.csv' & 'config.py'
 
 ### Sequencing of Jupyter Notebooks
 1. Proj-1-initialdataframes.ipynb (Initial data cleaning & Research Question 1)
