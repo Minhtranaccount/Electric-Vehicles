@@ -1,5 +1,17 @@
 # Global Electric Vehicle Trends & Australia's lagging behind
 
+There is a race in manufacturing electric vehicles around the world as they cost less to run and protect the nature with less emissions. To support car dealers to understand more about the current context of EV around the world and the comparison to Australia, our team developed a tailored report in order to answer the below questions.
+
+What are the recent trends of EV sales? 
+
+Has COVID-19 affected these trends?
+
+What is the relation between a country’s 
+
+GDP and EV sales? Is Australia on trend?
+
+Do government incentives result in more EV sales
+
 # Screenshots of the jupyter notebooks
 
 ![image](https://github.com/Minhtranaccount/Electric-Vehicles/assets/117701483/2ca189ea-2aa8-460a-bf03-244170fb7bab)
