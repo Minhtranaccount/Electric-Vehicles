@@ -12,6 +12,13 @@ GDP and EV sales? Is Australia on trend?
 
 Do government incentives result in more EV sales
 
+# Technologies used:
+Python libraries: pandas, matplotlib & numpy 
+
+Jupyter Notebook
+
+
+
 # Screenshots of the jupyter notebooks
 
 ![image](https://github.com/Minhtranaccount/Electric-Vehicles/assets/117701483/2ca189ea-2aa8-460a-bf03-244170fb7bab)
